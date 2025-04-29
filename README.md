@@ -26,7 +26,7 @@ Construído com **HTML, CSS e JavaScript puro**, o projeto mostra como consumir 
 ## 📸 Preview
 
 <!-- Substitua pelo caminho real da imagem -->
-![Preview do Criticine](./assets/criticine-preview.png)
+![Preview do Criticine](./assets/images/criticine-preview.png)
 
 ---
 
